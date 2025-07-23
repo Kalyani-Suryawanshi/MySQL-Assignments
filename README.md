@@ -32,17 +32,13 @@ Each assignment covers a major SQL concept, and files include:
 
 ## 📝 Assignment Questions Overview
 
-> ⚠️ Notes:  
-> - All referenced tables belong to the **Classic Models** database unless mentioned.  
-> - If a question asks for table creation, follow the specified structure and constraints.  
-> - Solve each day’s assignment in a single query tab or file.
-
 ---
 
 ### 🔹 SELECT Clause
 
-1. Fetch employee number, first name, and last name for Sales Reps reporting to employee number 1102.  
-2. Show unique `productLine` values ending with the word **cars** from the `products` table.
+1. Fetch employee number, first name, and last name for Sales Reps reporting to employee number 1102.
+   
+3. Show unique `productLine` values ending with the word **cars** from the `products` table.
 
 ---
 
